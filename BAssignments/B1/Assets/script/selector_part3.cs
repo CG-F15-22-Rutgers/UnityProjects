@@ -52,4 +52,8 @@ public class selector_part3 : MonoBehaviour
 
         }
     }
+    public void loadlevel0()
+    {
+        Application.LoadLevel(0);
+    }
 }

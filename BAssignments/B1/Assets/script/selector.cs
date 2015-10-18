@@ -47,4 +47,9 @@ public class selector : MonoBehaviour
 
         }
     }
+
+    public void loadlevel0()
+    {
+        Application.LoadLevel(0);
+    }
 }
