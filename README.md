@@ -1,7 +1,7 @@
-#Group Name
+#cg-f15-22-rutgers
 ######Unity Projects - CG Fall 2015 @ Rutgers
-######By: *[Leader], [Member1], [Member2], [Member3]*
-Check out our website: [Group Name Website](https://www.google.com "Google's Homepage!")
+######By: *[Weilin Zhao], [Beidi lu], [Yehui Rong]*
+Check out our website: [cg-f15-22-rutgers](http://cg-f15-22-rutgers.blogspot.com/2015/10/b1.html")
 
 ![alt text](teamLogo.png)
 
